@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CitiesWeatherPage/static/css/main.2981f3fe.chunk.css",
-    "main.js": "/CitiesWeatherPage/static/js/main.fc8d93bf.chunk.js",
-    "main.js.map": "/CitiesWeatherPage/static/js/main.fc8d93bf.chunk.js.map",
-    "runtime-main.js": "/CitiesWeatherPage/static/js/runtime-main.e032c8ca.js",
-    "runtime-main.js.map": "/CitiesWeatherPage/static/js/runtime-main.e032c8ca.js.map",
-    "static/js/2.a3924d2b.chunk.js": "/CitiesWeatherPage/static/js/2.a3924d2b.chunk.js",
-    "static/js/2.a3924d2b.chunk.js.map": "/CitiesWeatherPage/static/js/2.a3924d2b.chunk.js.map",
-    "index.html": "/CitiesWeatherPage/index.html",
-    "precache-manifest.5ab4c3949af385afd91fc02d6646a2f0.js": "/CitiesWeatherPage/precache-manifest.5ab4c3949af385afd91fc02d6646a2f0.js",
-    "service-worker.js": "/CitiesWeatherPage/service-worker.js",
-    "static/css/main.2981f3fe.chunk.css.map": "/CitiesWeatherPage/static/css/main.2981f3fe.chunk.css.map",
-    "static/js/2.a3924d2b.chunk.js.LICENSE.txt": "/CitiesWeatherPage/static/js/2.a3924d2b.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/CitiesWeatherPage/static/media/background.4054cd89.jpg"
+    "main.css": "./static/css/main.c62feb19.chunk.css",
+    "main.js": "./static/js/main.fc8d93bf.chunk.js",
+    "main.js.map": "./static/js/main.fc8d93bf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.32209e5d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.32209e5d.js.map",
+    "static/js/2.2ffe1f9b.chunk.js": "./static/js/2.2ffe1f9b.chunk.js",
+    "static/js/2.2ffe1f9b.chunk.js.map": "./static/js/2.2ffe1f9b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7980d07545f0cdde85e22b38d8127fa3.js": "./precache-manifest.7980d07545f0cdde85e22b38d8127fa3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.c62feb19.chunk.css.map": "./static/css/main.c62feb19.chunk.css.map",
+    "static/js/2.2ffe1f9b.chunk.js.LICENSE.txt": "./static/js/2.2ffe1f9b.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/background.4054cd89.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e032c8ca.js",
-    "static/js/2.a3924d2b.chunk.js",
-    "static/css/main.2981f3fe.chunk.css",
+    "static/js/runtime-main.32209e5d.js",
+    "static/js/2.2ffe1f9b.chunk.js",
+    "static/css/main.c62feb19.chunk.css",
     "static/js/main.fc8d93bf.chunk.js"
   ]
 }
